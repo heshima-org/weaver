@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "My Section" 
 images:
   - path : "bunting 001.jpg"
     link : /MySection

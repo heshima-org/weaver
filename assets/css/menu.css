@@ -220,7 +220,6 @@ position:relative;}
 /* Lines between li */
 #menu ul.menu li div ul li
 {
-  background-image:url(images/hr.gif);
   background-repeat: repeat-x;
   background-position: left bottom;
 }

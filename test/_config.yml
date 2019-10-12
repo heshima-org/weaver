@@ -7,3 +7,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: weaver
+
+menu:
+  - link : /
+  - link : /MySection/
+    menu:
+      - link: /MySection/a
+      - link: /MySection/b
+  - link : /AnotherSection/
